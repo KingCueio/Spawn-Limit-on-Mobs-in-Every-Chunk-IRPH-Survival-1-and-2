@@ -4,7 +4,7 @@
   - 
  
 
-|  Passive Mobs   | Count in Every Chunk|
+|  Passive Mobs   | Number Count in Every Chunk |
 | ---------- | ------------------- |
 |    Sheep   | 20 |
 |     Cow    | 20 |
@@ -37,7 +37,7 @@
 |     Skeleton horse   | 20 |
 
 
-|  Neutral   Mobs   | Count in Every Chunk|
+|  Neutral   Mobs   | Number Count in Every Chunk |
 | ---------- | ------------------- |
 |    Dolphin   | Unlimited |
 |     Polar bear    | 20 |
@@ -51,7 +51,7 @@
 
 
 
-|  Neutral   Monster   | Count in Every Chunk|
+|  Neutral   Monster   | Number Count in Every Chunk |
 | ---------- | ------------------- |
 |    Spider   | 30 |
 |     Cave Spider   | 30 |
@@ -61,7 +61,7 @@
 |     Zombified Piglin   | 20 |
 
 
-|  Hostile Mobs   | Count in Every Chunk|
+|  Hostile Mobs   | Number Count in Every Chunk |
 | ---------- | ------------------- |
 |    Evoker   | Unlimited |
 |    Vindicator    | Unlimited |
@@ -97,90 +97,90 @@
   - 
  
 
-|  Passive Mobs   | Count in Every Chunk|
+|  Passive Mobs   | Number Count in Every Chunk |
 | ---------- | ------------------- |
-|    Sheep   | Count in Every Chunk|
-|     Cow    | Count in Every Chunk|
-|     Fox    | Count in Every Chunk|
-|     Mobs   | Count in Every Chunk|
-|     Bat    | Count in Every Chunk|
-|  Chicken   | Count in Every Chunk|
-|     Cod    | Count in Every Chunk|
-|   Ocelot   | Count in Every Chunk|
-|     Pig    | Count in Every Chunk|
-|  Baby Piglin  | Count in Every Chunk|
-|     Baby Polar Bear   | Count in Every Chunk|
-|     Snow Golem  | Count in Every Chunk|
-|     Rabbit   | Count in Every Chunk|
-|     Salmon   | Count in Every Chunk|
-|     Mooshroom   | Count in Every Chunk|
-|     Squid  | Count in Every Chunk|
-|     Strider   | Count in Every Chunk|
-|     Tropical Fish   | Count in Every Chunk|
-|     Turtle   | Count in Every Chunk|
-|     Villager  | Count in Every Chunk|
-|     Wandering Trader   | Count in Every Chunk|
-|     Puffer Fish  | Count in Every Chunk|
-|     Axolotl   | Count in Every Chunk|
-|     Glow Squid  | Count in Every Chunk|
-|     Donkey   | Count in Every Chunk|
-|     Horse   | Count in Every Chunk|
-|     Cat   | Count in Every Chunk|
-|     Parrot  | Count in Every Chunk|
-|     Mule   | Count in Every Chunk|
-|     Skeleton horse   | Count in Every Chunk|
+|    Sheep   | 5 |
+|     Cow    | 5 |
+|     Fox    | 5 |
+|     Mobs   | 1 |
+|     Bat    | 3 |
+|  Chicken   | 2 |
+|     Cod    | 2 |
+|   Ocelot   | 5 |
+|     Pig    | 5 |
+|  Baby Piglin  | 4 |
+|     Baby Polar Bear   | 5 |
+|     Snow Golem  | 5 |
+|     Rabbit   | 2 |
+|     Salmon   | 3 |
+|     Mooshroom   | 5 |
+|     Squid  | 3 |
+|     Strider   | 4 |
+|     Tropical Fish   | 2 |
+|     Turtle   | 5 |
+|     Villager  | 10 |
+|     Wandering Trader   | 3 |
+|     Puffer Fish  | 2 |
+|     Axolotl   | 20 |
+|     Glow Squid  | 20 |
+|     Donkey   | 3 |
+|     Horse   | 3 |
+|     Cat   | 5 |
+|     Parrot  | 5 |
+|     Mule   | Unlimited |
+|     Skeleton horse   | 4|
 
 
-|  Neutral   Mobs   | Count in Every Chunk|
+|  Neutral   Mobs   | Number Count in Every Chunk |
 | ---------- | ------------------- |
-|    Dolphin   | Count in Every Chunk|
-|     Polar bear    | Count in Every Chunk|
-|    Trader Llama   | Count in Every Chunk|
-|     Llama    | Count in Every Chunk|
-|    Panda   | Count in Every Chunk|
-|     Wolf    | Count in Every Chunk|
-|     Bee     | Count in Every Chunk|
-|     Iron Golem    | Count in Every Chunk|
-|    Goat   | Count in Every Chunk|
+|    Dolphin   | 2 |
+|     Polar bear    | 5 |
+|    Trader Llama   | 3 |
+|     Llama    | 5 |
+|    Panda   | 4 |
+|     Wolf    | 5 |
+|     Bee     | 5 |
+|     Iron Golem    | 3 |
+|    Goat   | 20 |
 
 
 
-|  Neutral   Monster   | Count in Every Chunk|
+|  Neutral   Monster   | Number Count in Every Chunk |
 | ---------- | ------------------- |
-|    Spider   | 30 |
-|     Cave Spider   | 30 |
-|    Enderman    | 20 |
-|     Zombie Pigman    | 20 |
-|    Piglin   | 20 |
-|     Zombified Piglin   | 20 |
+|    Spider   | 4 |
+|     Cave Spider   | 4 |
+|    Enderman    | 4 |
+|     Zombie Pigman    | 5 |
+|    Piglin   | 4 |
+|     Zombified Piglin   | 4 |
 
 
-|  Hostile Mobs   | Count in Every Chunk|
+|  Hostile Mobs   | Number Count in Every Chunk |
 | ---------- | ------------------- |
-|    Evoker   | Count in Every Chunk|
-|    Vindicator    | Count in Every Chunk|
-|     Pillager    | Count in Every Chunk|
-|     Ravager   | Count in Every Chunk|
-|     Vex    | Count in Every Chunk|
-|  Endermite   | Count in Every Chunk|
-|     Guardian    | Count in Every Chunk|
-|   Elder Guardian   | Count in Every Chunk|
-|     Shulker    | Count in Every Chunk|
-|  Husk  | Count in Every Chunk|
-|     Stray   | Count in Every Chunk|
-|     Phantom  | Count in Every Chunk|
-|     Blaze   | Count in Every Chunk|
-|     Creeper   | Count in Every Chunk|
-|     Ghast   | Count in Every Chunk|
-|     Magma Cube  | Count in Every Chunk|
-|     Silverfish   | Count in Every Chunk|
-|     Skeleton   | Count in Every Chunk|
-|     Slime   | Count in Every Chunk|
-|     Zombie  | Count in Every Chunk|
-|     Zombie Villager   | Count in Every Chunk|
-|     Drowned  | Count in Every Chunk|
-|     Wither Skeleton   | Count in Every Chunk|
-|     Witch  | Count in Every Chunk|
-|     Hoglin   | Count in Every Chunk|
-|     Zoglin   | Count in Every Chunk|
-|     Piglin Brute   | Count in Every Chunk|
+|    Evoker   | 4 |
+|    Vindicator    | 4 |
+|     Pillager    | 3 |
+|     Ravager   | 3 |
+|     Vex    | 4 |
+|  Endermite   | 3 |
+|     Guardian    | 5 |
+|   Elder Guardian   | 2 |
+|     Shulker    | Unlimited |
+|  Husk  | 5 |
+|     Stray   | 4 |
+|     Phantom  | 2 |
+|     Blaze   | 4 |
+|     Creeper   | 4 |
+|     Ghast   | 2 |
+|     Magma Cube  | 4 |
+|     Silverfish   | 2 |
+|     Skeleton   | 4 |
+|     Slime   | 4 |
+|     Zombie  | 4 |
+|     Zombie Villager   | 4 |
+|     Drowned  | 3 |
+|     Wither Skeleton   | 4 |
+|     Witch  | 3 |
+|     Hoglin   | 4 |
+|     Zoglin   | 4 |
+|     Piglin Brute   | 4 |
