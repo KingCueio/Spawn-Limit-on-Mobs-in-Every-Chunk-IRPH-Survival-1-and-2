@@ -43,7 +43,7 @@ If you have questions or inquiries. Please do make a ticket in our Immortal Real
 | ---------- | ------------------- |
 |    Dolphin   | Unlimited |
 |     Polar bear    | 20 |
-|    Trader Llama   | Count in Every Chunk|
+|    Trader Llama   | Unlimited |
 |     Llama    | Unlimited |
 |    Panda   | Unlimited |
 |     Wolf    | 20 |
