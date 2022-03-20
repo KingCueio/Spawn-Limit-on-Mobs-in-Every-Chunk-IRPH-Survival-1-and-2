@@ -1,4 +1,6 @@
 # Spawn-Limit-on-Mobs-in-Every-Chunk-IRPH-Survival-1-and-2
+Hello Players, This description is for Limitation of Different Types of Mobs that can spawn in every chunk in Survival 1 and 2.
+If you have questions or inquiries. Please do make a ticket in our Immortal Realms Discord.
 
 - **Survival 1**
   - 
